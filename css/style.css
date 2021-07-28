@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header section css */
+header{
+    background-color: #264653;
+    padding: 20px 0;
+}
+.bike-name{
+    font-size: 48px;
+}
+.offwhite{
+    color: #E0E0E0;
+}
+.tomato-btn{
+    background-color: tomato;
+}
+/* feature section css */
+.feature, .client, .faq{
+    padding-top: 70px;
+}
+.tomato-text{
+    color: tomato;
+    font-size: 14px;
+}
+/* client section css */
+.comment-card{
+    padding-top: 60px;
+}
+.comment{
+    color: #6C6C6C;
+}
+.star ul{
+    padding: 0;
+}
+.star ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 4px;
+}
