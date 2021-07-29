@@ -16,7 +16,7 @@ header{
     background-color: tomato;
 }
 /* feature section css */
-.feature, .client, .faq{
+.feature, .client, .faq, .product-slider, .newsletter{
     padding-top: 70px;
 }
 .tomato-text{
@@ -24,7 +24,7 @@ header{
     font-size: 14px;
 }
 /* client section css */
-.comment-card, .questions{
+.comment-card, .questions, .products, .input-form{
     padding-top: 60px;
 }
 .comment{
@@ -42,4 +42,8 @@ header{
 .accordion-button:not(.collapsed){
     color: tomato;
     background-color: white;
+}
+/* newsletter section css */
+.input-form{
+    padding-bottom: 30px;
 }
