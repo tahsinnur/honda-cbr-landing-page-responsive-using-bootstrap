@@ -24,7 +24,7 @@ header{
     font-size: 14px;
 }
 /* client section css */
-.comment-card{
+.comment-card, .questions{
     padding-top: 60px;
 }
 .comment{
@@ -37,4 +37,9 @@ header{
     list-style: none;
     display: inline;
     margin-right: 4px;
+}
+/* faq section css */
+.accordion-button:not(.collapsed){
+    color: tomato;
+    background-color: white;
 }
